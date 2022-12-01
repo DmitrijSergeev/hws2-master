@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%22https://DmitrijSergeev.github.io/hws2-master/static/css/main.a76252a1.css",
+    "main.js": "/%22https://DmitrijSergeev.github.io/hws2-master/static/js/main.ed4c9f1a.js",
+    "static/js/787.66cb4309.chunk.js": "/%22https://DmitrijSergeev.github.io/hws2-master/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/%22https://DmitrijSergeev.github.io/hws2-master/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/%22https://DmitrijSergeev.github.io/hws2-master/index.html",
+    "main.a76252a1.css.map": "/%22https://DmitrijSergeev.github.io/hws2-master/static/css/main.a76252a1.css.map",
+    "main.ed4c9f1a.js.map": "/%22https://DmitrijSergeev.github.io/hws2-master/static/js/main.ed4c9f1a.js.map",
+    "787.66cb4309.chunk.js.map": "/%22https://DmitrijSergeev.github.io/hws2-master/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76252a1.css",
+    "static/js/main.ed4c9f1a.js"
+  ]
+}
