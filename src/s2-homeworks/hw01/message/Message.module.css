@@ -19,13 +19,17 @@
 }
 
 .name {
-
+margin-left: -75px;
+    margin-top: -200px;
 }
 
 .messageText {
+margin-left: -75px;
+    margin-top: 20px;
 
 }
 
 .time {
-margin-left: 1000px
+margin-left: 1075px;
+    margin-top: 140px;
 }
