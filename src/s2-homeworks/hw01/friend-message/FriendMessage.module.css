@@ -3,11 +3,12 @@
 }
 
 .friendImageAndText {
-
+    display: flex;
+    gap: 20px;
 }
 
 .friendImageAndText img {
-
+    width: 50px;
 }
 
 .friendText {
@@ -19,15 +20,15 @@
 }
 
 .friendName {
-margin-left: 220px;
-    margin-top: -200px;
+/*margin-left: 220px;*/
+/*    margin-top: -200px;*/
 }
 
 .friendMessageText {
-margin-left: 220px;
+/*margin-left: 220px;*/
 }
 
 .friendTime {
-margin-top: 160px;
-    margin-left: 75px;
+/*margin-top: 160px;*/
+/*    margin-left: 75px;*/
 }
