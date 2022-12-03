@@ -1,13 +1,16 @@
 .message {
-
+   margin: 0 auto;
+   max-width: 1200px;
 }
 
 .imageAndText {
-    margin-left: 1000px;
+    /*margin-left: 1000px;*/
+   display: flex;
+   gap: 20px;
 }
 
 .imageAndText img {
-
+   width: 50px;
 }
 
 .text {
@@ -19,17 +22,17 @@
 }
 
 .name {
-margin-left: -75px;
-    margin-top: -200px;
+/*margin-left: -75px;*/
+/*    margin-top: -200px;*/
 }
 
 .messageText {
-margin-left: -75px;
-    margin-top: 20px;
+/*margin-left: -75px;*/
+/*    margin-top: 20px;*/
 
 }
 
 .time {
-margin-left: 1075px;
-    margin-top: 140px;
+/*margin-left: 1075px;*/
+/*    margin-top: 140px;*/
 }
