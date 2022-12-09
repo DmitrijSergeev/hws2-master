@@ -25,12 +25,12 @@ function Affair(props: AffairPropsType) {
         >
             <div id={'hw2-name-' + props.affair._id} className={nameClass}>
                 {/*создаёт студент*/}
-                {s.name}
+                {props.affair.name}
                 {/**/}
             </div>
             <div id={'hw2-priority-' + props.affair._id} hidden>
                 {/*создаёт студент*/}
-                {s.affair}
+                {props.affair.priority}
                 {/**/}
             </div>
 
@@ -39,7 +39,6 @@ function Affair(props: AffairPropsType) {
                 className={buttonClass}
                 // need to fix
             >
-                {s.closeButton}
                 {/*текст кнопки могут изменить студенты*/}
                 X
                 {/**/}
